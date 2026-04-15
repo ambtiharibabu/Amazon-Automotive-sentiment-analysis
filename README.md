@@ -1,4 +1,4 @@
-# P9.1 — Automotive Product Sentiment Analysis
+# P9.1 - Automotive Product Sentiment Analysis
 
 **Course:** BSAN885 Advanced AI Analytics — Barton School of Business, WSU  
 **Student:** Haribabu Ambati  
