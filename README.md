@@ -73,15 +73,6 @@ Interactive Dashboard (Plotly Dash)
 ### Rating Group Comparison
 ![Rating Comparison](Automotive_rating_comparison.png)
 
-### Sentiment Distribution
-![Sentiment Distribution](dashboard_charts/01_sentiment_distribution.png)
-
-### Top Customer Pain Points
-![Pain Points](dashboard_charts/04_top_pain_points.png)
-
-### Top Positive Aspects
-![Positives](dashboard_charts/05_top_positives.png)
-
 ---
 
 ## Project Files
