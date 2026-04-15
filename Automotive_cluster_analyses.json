@@ -1,0 +1,211 @@
+{
+  "0": {
+    "cluster_theme": "Automotive Parts & Accessories",
+    "common_topics": [
+      "Performance upgrades (engine, exhaust)",
+      "Maintenance/Repair parts (wipers, relays)",
+      "Installation and fitment",
+      "Brand reputation"
+    ],
+    "typical_sentiment": "positive",
+    "avg_rating_impression": "high",
+    "key_characteristics": "This cluster is dominated by reviews for specific automotive components, ranging from performance enhancements like oil and exhaust systems to necessary replacement parts like wipers and relays, with a generally high satisfaction rate regarding quality and effectiveness.",
+    "size": 2241,
+    "avg_rating": 3.99
+  },
+  "1": {
+    "cluster_theme": "Product Quality and Functionality",
+    "common_topics": [
+      "Installation and Fitment",
+      "Durability and Longevity",
+      "Product Performance Issues",
+      "Value for Money"
+    ],
+    "typical_sentiment": "mixed",
+    "avg_rating_impression": "medium",
+    "key_characteristics": "This cluster contains reviews highly polarized between excellent performance/fit and significant functional failures or missing parts.",
+    "size": 1523,
+    "avg_rating": 4.0
+  },
+  "2": {
+    "cluster_theme": "Automotive Accessories & Parts Quality",
+    "common_topics": [
+      "Steering Wheel Covers",
+      "Light Bulbs/Headlamps",
+      "Fit and Installation",
+      "Perceived Quality vs. Price"
+    ],
+    "typical_sentiment": "positive",
+    "avg_rating_impression": "high",
+    "key_characteristics": "This cluster is dominated by reviews praising the quality, fit, and value of various automotive accessories, though some negative reviews focus on premature failure of bulbs or minor fitment issues.",
+    "size": 1396,
+    "avg_rating": 4.09
+  },
+  "3": {
+    "cluster_theme": "Diverse Automotive Accessories & Parts",
+    "common_topics": [
+      "Quality and Durability",
+      "Fitment and Compatibility",
+      "Performance Expectations (Power/Mileage)",
+      "Installation and Usability"
+    ],
+    "typical_sentiment": "mixed",
+    "avg_rating_impression": "medium",
+    "key_characteristics": "This cluster contains reviews for a wide variety of automotive products, ranging from accessories like carriers and bungee cords to functional parts like air filters and shocks, resulting in highly varied feedback.",
+    "size": 830,
+    "avg_rating": 4.01
+  },
+  "4": {
+    "cluster_theme": "Automotive Accessories and Tools",
+    "common_topics": [
+      "Product Quality and Functionality",
+      "Ease of Use/Installation",
+      "Customer Service/Shipping Speed",
+      "Specific Product Types (e.g., seat covers, cleaning tools)"
+    ],
+    "typical_sentiment": "positive",
+    "avg_rating_impression": "high",
+    "key_characteristics": "This cluster primarily features positive reviews for various automotive accessories, tools, and maintenance items, often highlighting good value, quick delivery, and effective performance.",
+    "size": 1178,
+    "avg_rating": 3.96
+  },
+  "5": {
+    "cluster_theme": "General Automotive Accessories and Parts",
+    "common_topics": [
+      "Performance and Maintenance Parts (e.g., brakes, timing lights)",
+      "Utility and Convenience Items (e.g., covers, squeegees, steering wheel desks)",
+      "Product Quality and Durability",
+      "Fitment and Sizing Issues"
+    ],
+    "typical_sentiment": "positive",
+    "avg_rating_impression": "high",
+    "key_characteristics": "This cluster contains reviews for a wide variety of automotive products, ranging from performance upgrades to simple convenience accessories, generally receiving favorable feedback.",
+    "size": 1545,
+    "avg_rating": 4.02
+  },
+  "6": {
+    "cluster_theme": "Automotive Maintenance & Accessories",
+    "common_topics": [
+      "Tire Gauges/Pressure Accessories",
+      "Cleaning/Polishing Products",
+      "Vehicle Protection/Parts (Filters, Deflectors)",
+      "Battery Maintenance"
+    ],
+    "typical_sentiment": "positive",
+    "avg_rating_impression": "high",
+    "key_characteristics": "This cluster primarily contains reviews for functional automotive maintenance tools, cleaning supplies, and protective accessories, with generally high satisfaction regarding performance and durability.",
+    "size": 1566,
+    "avg_rating": 4.0
+  },
+  "7": {
+    "cluster_theme": "Product Fit and Performance",
+    "common_topics": [
+      "Fitment and Installation",
+      "Performance Improvement (Air Filters, Wipers)",
+      "Value and Price Comparison",
+      "Ease of Use"
+    ],
+    "typical_sentiment": "positive",
+    "avg_rating_impression": "high",
+    "key_characteristics": "This cluster is characterized by strong positive feedback regarding how well products fit specific vehicles and the noticeable performance improvements they deliver, often highlighting good value compared to dealer prices.",
+    "size": 1063,
+    "avg_rating": 4.1
+  },
+  "8": {
+    "cluster_theme": "General Automotive Parts & Tools",
+    "common_topics": [
+      "Wiper Blades/Mirrors/Accessories",
+      "Diagnostic Tools (OBD II)",
+      "Installation/Fitment Issues",
+      "Product Performance/Durability"
+    ],
+    "typical_sentiment": "positive",
+    "avg_rating_impression": "high",
+    "key_characteristics": "This cluster contains reviews for a wide variety of automotive products, including maintenance items, accessories, and diagnostic tools, with generally favorable feedback.",
+    "size": 894,
+    "avg_rating": 3.97
+  },
+  "9": {
+    "cluster_theme": "Automotive Accessories and Parts",
+    "common_topics": [
+      "Wiper Blades",
+      "Performance/Tuning Devices",
+      "Lighting and Visibility Aids",
+      "Installation and Fitment"
+    ],
+    "typical_sentiment": "positive",
+    "avg_rating_impression": "high",
+    "key_characteristics": "This cluster primarily contains reviews for various aftermarket automotive accessories, with a strong focus on wiper blades, performance tuners, and visibility aids, generally receiving high satisfaction.",
+    "size": 572,
+    "avg_rating": 4.01
+  },
+  "10": {
+    "cluster_theme": "Automotive Accessories & Parts Reviews",
+    "common_topics": [
+      "Lighting (LED/Bulbs)",
+      "Fitment and Appearance",
+      "Product Quality and Durability",
+      "Installation Experience"
+    ],
+    "typical_sentiment": "positive",
+    "avg_rating_impression": "high",
+    "key_characteristics": "This cluster primarily contains reviews for various automotive accessories, parts (like lights, covers, frames), often focusing on visual appeal, ease of installation, and functional performance improvements over stock items.",
+    "size": 1066,
+    "avg_rating": 3.97
+  },
+  "11": {
+    "cluster_theme": "Product Fit and Value",
+    "common_topics": [
+      "Installation and Fitment",
+      "Product Value and Price Comparison",
+      "Product Performance and Quality"
+    ],
+    "typical_sentiment": "positive",
+    "avg_rating_impression": "high",
+    "key_characteristics": "This cluster is characterized by reviews frequently discussing whether products fit correctly, their perceived value compared to alternatives or retail price, and general satisfaction with performance.",
+    "size": 1163,
+    "avg_rating": 4.12
+  },
+  "12": {
+    "cluster_theme": "Automotive Product Quality and Experience",
+    "common_topics": [
+      "Product Durability/Breakage",
+      "Customer Service/Shipping Issues",
+      "Effectiveness of Cleaning/Restoration Products",
+      "Fitment and Completeness of Parts"
+    ],
+    "typical_sentiment": "mixed",
+    "avg_rating_impression": "medium",
+    "key_characteristics": "This cluster shows a high variance in experience, ranging from excellent product performance and customer service to severe issues with product failure, missing parts, and poor quality control.",
+    "size": 1976,
+    "avg_rating": 3.53
+  },
+  "13": {
+    "cluster_theme": "Automotive Accessories and Parts",
+    "common_topics": [
+      "Battery performance and longevity",
+      "Installation and fitment of accessories",
+      "Quality and material expectations vs. reality",
+      "Value for money"
+    ],
+    "typical_sentiment": "positive",
+    "avg_rating_impression": "high",
+    "key_characteristics": "This cluster primarily features reviews for various automotive and vehicle accessories (covers, fans, adapters, stripes, brake pads) where customers are generally satisfied with performance relative to price, though material quality sometimes draws minor criticism.",
+    "size": 1123,
+    "avg_rating": 3.97
+  },
+  "14": {
+    "cluster_theme": "Automotive Parts & Accessories",
+    "common_topics": [
+      "Filters (Oil/Air)",
+      "Gauges and Sensors (Oxygen, Pressure)",
+      "Installation and Fitment",
+      "Performance and Quality"
+    ],
+    "typical_sentiment": "positive",
+    "avg_rating_impression": "high",
+    "key_characteristics": "This cluster primarily consists of positive reviews for various automotive components, focusing on quality, performance improvements, and ease of installation, despite a few minor aesthetic complaints.",
+    "size": 1862,
+    "avg_rating": 4.04
+  }
+}
